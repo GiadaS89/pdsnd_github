@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+11.06.2020
 
 ### Project Title
-Replace the Project Title
+Data Science Project
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare data in the USA
 
 ### Files used
-Include the files used
+Bikeshare_GiadaSartori_3
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to GitHub and stackoverflow libraries
