@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Friday, 12.06.2020
 
 ### Project Title
-Replace the Project Title
+Giada Sartori's Datascience Project
 
 ### Description
-Describe what your project is about and what it does
+Programming for Data Science with Python, and GitHub which analyze bikeshare data across the cities of Chicago, NYC and Washington
 
 ### Files used
-Include the files used
+Bikeshare_GiadaSartori_3
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity, my mentor Christoph, stackoverflow, GitHub and Python
